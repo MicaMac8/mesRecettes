@@ -1,23 +1,24 @@
+# Les recettes de Mica
 
-template engine :
-  Jade (Pug)
+Simple interface qui sert à afficher mes recettes
 
-CSS preprocessor :
-  Sass
-PostCSS
-  Autoprefixer
+### Settings :
 
-Compiler :
-  Prepros
+* Compiler : Prepros
 
-Libraries :
-  jQuery
-  Event Emitter *
+* template engine : Jade (Pug)  
 
-  Style guides :
-    JavaScript : Standard Happiness (with ";") (https://github.com/JedWatson/happiness)
-    Sass : SMACSS
+##### CSS
+* preprocessor : Sass  
+* PostCSS : Autoprefixer    
+* reset : normalize.scss  
+* Style guides : SMACSS
+* Linters : sass-lint  
 
-Linters :
-  js-standard (Happiness)
-  sass-lint
+##### JS    
+* Style guides : Standard Happiness (with ";") (https://github.com/JedWatson/happiness)  
+* Linters : js-standard (Happiness)  
+
+* Libraries :  
+  * jQuery  
+  * Event Emitter *  
