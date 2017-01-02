@@ -4,16 +4,20 @@ template engine :
 
 CSS preprocessor :
   Sass
-  PostCSS
-    Autoprefixer
-
-Style guide :
-  JavaScript : Standard Happiness (with ";") (https://github.com/JedWatson/happiness)
-  Sass : SMACSS
+PostCSS
+  Autoprefixer
 
 Compiler :
   Prepros
 
-Library :
+Libraries :
   jQuery
   Event Emitter *
+
+  Style guides :
+    JavaScript : Standard Happiness (with ";") (https://github.com/JedWatson/happiness)
+    Sass : SMACSS
+
+Linters :
+  js-standard (Happiness)
+  sass-lint
