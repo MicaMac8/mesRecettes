@@ -13,7 +13,7 @@ This is a boilerplate with an [atomic design](http://atomicdesign.bradfrost.com/
 ##### CSS
 * preprocessor : [Sass](http://sass-lang.com/)  
 * [PostCSS](http://postcss.org/) : [Autoprefixer](https://autoprefixer.github.io/)    
-* reset : normalize.scss (modifie *app/base/_normalize.scss*)  
+* reset : [normalize.scss](https://github.com/kristerkari/normalize.scss) (modifie *app/base/_normalize.scss*)  
 * Style guides : [SMACSS](https://smacss.com/)
 * Linter (atom) : [sass-lint](https://atom.io/packages/linter-sass-lint)  
 
