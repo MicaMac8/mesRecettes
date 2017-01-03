@@ -1,11 +1,8 @@
 :construction_worker:
 # Ted boilerplate
 
-> Have you met Ted ?
-> Ted Mosby Architect.
-
-![Ted Mosby](source/public/images/ted.png)
-Format: ![Alt Text](http://images.google.fr/imgres?imgurl=http%3A%2F%2Fimages.memes.com%2Fmeme%2F413853&imgrefurl=http%3A%2F%2Fwww.memes.com%2Fimg%2F413853&h=337&w=450&tbnid=CEubLwM9GmiLMM%3A&vet=1&docid=uRHFXPtmvDQ6HM&ei=KjxrWLmKC4LsaoTysqgH&tbm=isch&client=ubuntu&iact=rc&uact=3&dur=416&page=0&start=0&ndsp=23&ved=0ahUKEwi5x6q2pKXRAhUCthoKHQS5DHUQMwgbKAEwAQ&bih=900&biw=1076)
+> Have you met Ted ?  
+> Ted Mosby Architect.  
 
 ### description :dog:
 This is a boilerplate with an [atomic design](http://atomicdesign.bradfrost.com/) inspired file structure. It uses [Jade](https://pugjs.org/api/getting-started.html) (Pug) as template engine and [Sass](http://sass-lang.com/) (scss) as preprocessor. Ready for [Prepros](https://prepros.io/) compiler.
